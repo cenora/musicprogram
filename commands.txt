@@ -1,0 +1,11 @@
+[https://www.youtube.com/@IAmTimCorey]
+.net sdk [https://dotnet.microsoft/en-us/download]
+dotnet
+dotnet new gitignore
+dotnet -h
+dotnet new --list
+dotnet new sln
+dotnet sln TestApp.sln add TestApp.csproj
+dotnet new console -o nome
+dotnet build
+dotnet run
